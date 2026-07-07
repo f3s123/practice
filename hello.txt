@@ -1,3 +1,7 @@
 hello git
 This is a Git practice file.
+<<<<<<< HEAD
 good~
+=======
+goodbye~~
+>>>>>>> 771001c15519b62f1d2c65c8a1c0383cb5de73c5
